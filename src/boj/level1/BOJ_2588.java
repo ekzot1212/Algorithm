@@ -1,4 +1,4 @@
-package boj.bronze;
+package boj.level1;
 
 /*
 Bronze III
