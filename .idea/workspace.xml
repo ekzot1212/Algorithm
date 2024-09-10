@@ -1,31 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc7152c-9d41-4501-8add-37feb39ec2d6" name="Changes" comment="" />
+    <list default="true" id="acc7152c-9d41-4501-8add-37feb39ec2d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_18108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ekzot1212&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ekzot1212/Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;7c653acc-a9b6-4869-9531-4fe5dd469e25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lsTFb8OlpDMFcDlHQ2l1Zejc3I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BOJ_10430.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.boj_2557.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="boj.bronze" />
+      <recent name="boj" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +87,16 @@
       <updated>1725967686894</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
