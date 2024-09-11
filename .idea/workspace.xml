@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc7152c-9d41-4501-8add-37feb39ec2d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_11382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/bronze/BOJ_2588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_10699.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_2420.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_7287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2525.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_9498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2739.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +67,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/git/Algorithm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="boj.level3" />
+      <recent name="boj.level1" />
+      <recent name="boj.level2" />
       <recent name="boj.bronze" />
       <recent name="boj" />
     </key>
