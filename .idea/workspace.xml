@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc7152c-9d41-4501-8add-37feb39ec2d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_10699.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_2420.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_25083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level1/BOJ_7287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level2/BOJ_9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_15552_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_25314.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/Main.java" afterDir="false" />
     </list>
@@ -62,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BOJ_10430.executor": "Run",
+    "Application.BOJ_11021.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.boj_2557.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
