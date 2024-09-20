@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc7152c-9d41-4501-8add-37feb39ec2d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_15552_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/level3/BOJ_25314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/level4/BOJ_5597.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/Main.java" afterDir="false" />
     </list>
@@ -54,26 +55,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BOJ_10430.executor": "Run",
-    "Application.BOJ_11021.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.boj_2557.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/git/Algorithm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BOJ_10430.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_11021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.boj_2557.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git/Algorithm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="boj.level4" />
       <recent name="boj.level3" />
       <recent name="boj.level1" />
       <recent name="boj.level2" />
       <recent name="boj.bronze" />
-      <recent name="boj" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
